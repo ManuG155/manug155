@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is my first repository and I've just discovered I can edit this file
 
 <!--
 **ManuG155/manug155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
